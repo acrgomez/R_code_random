@@ -1,0 +1,10 @@
+---
+title: "Crop Analysis Q3 2013"
+output: 
+  pdf_document: 
+    latex_engine: xelatex
+fontsize: 14pt
+documentclass: extarticle
+---
+
+The diagram below represents the body’s production of an en- zyme, in response to the level of a hormone in the bloodstream. The solid lines represent stable equilibria, the dashed lines unstable equilibria.
